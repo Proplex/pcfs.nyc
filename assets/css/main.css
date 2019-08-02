@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: "Comic Sans","Comic Sans MS","Chalkboard","ChalkboardSE-Regular","Marker Felt","Purisa","URW Chancery L",cursive,sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  color: #ff0;
+  background-color: #00f;
+  background-image: url("../img/microfab.gif");
+}
+
+h1 {
+  font-size: 5em;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
